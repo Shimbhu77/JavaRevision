@@ -13,4 +13,16 @@ public abstract class AbstractClass {
 	{
 		return "I am Payal Kumawat. I am Jaipur.";
 	}
+	
+	public static void main(String[] args) {
+		
+		AbstractClass abs = new AbstractClass() {
+			
+			@Override
+			public String details() {
+				// TODO Auto-generated method stub
+				return null;
+			}
+		};
+	}
 }

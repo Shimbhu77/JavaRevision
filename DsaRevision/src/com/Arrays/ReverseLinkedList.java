@@ -1,10 +1,12 @@
+package com.Arrays;
+
 class ListNode {
     int val;
     ListNode next;
     ListNode(int val) { this.val = val; }
 }
 
-public class Solution {
+public class ReverseLinkedList {
     public ListNode reverseLinkedList(ListNode head) {
         ListNode prevNode = null;
         ListNode currNode = head;

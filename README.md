@@ -5,3 +5,4 @@
 # MySQL , SQL
 # Pagination
 # Sorting Logic
+# GraphQL

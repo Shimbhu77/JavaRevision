@@ -6,3 +6,4 @@
 # Pagination
 # Sorting Logic
 # GraphQL
+# Searching logic like binary search
